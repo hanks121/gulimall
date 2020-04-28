@@ -51,7 +51,7 @@ public class SpuInfoServiceImpl extends ServiceImpl<SpuInfoDao, SpuInfoEntity> i
     @Autowired
     SkuSaleAttrValueService skuSaleAttrValueService;
 
-    @Autowired
+    //@Autowired
     CouponFeignService couponFeignService;
 
     @Override

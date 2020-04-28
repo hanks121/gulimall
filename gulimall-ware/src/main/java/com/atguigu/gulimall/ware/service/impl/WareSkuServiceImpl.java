@@ -25,7 +25,7 @@ public class WareSkuServiceImpl extends ServiceImpl<WareSkuDao, WareSkuEntity> i
     @Autowired
     WareSkuDao wareSkuDao;
 
-    @Autowired
+    //@Autowired
     ProductFeignService productFeignService;
 
     @Override

@@ -26,13 +26,11 @@
             <version>1.18.8</version>
         </dependency>
 
-        <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore -->
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpcore</artifactId>
             <version>4.4.12</version>
         </dependency>
-
 
         <dependency>
             <groupId>commons-lang</groupId>
@@ -41,7 +39,6 @@
         </dependency>
 
         <!--    导入mysql驱动    -->
-        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
@@ -87,6 +84,5 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
 
 </project>
